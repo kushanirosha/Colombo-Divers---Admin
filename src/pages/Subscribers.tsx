@@ -167,7 +167,7 @@ const Subscribers: React.FC = () => {
 
         {/* Confirm Delete Modal */}
         {confirmDelete && (
-          <div className="fixed inset-0 bg-black bg-opacity-40 flex justify-center items-center z-50">
+          <div className="fixed inset-0 bg-black/70 bg-opacity-40 flex justify-center items-center z-50">
             <div className="bg-white p-6 rounded-xl shadow-lg max-w-sm w-full text-center">
               <h4 className="text-lg font-semibold text-gray-800 mb-2">
                 Are you sure you want to delete this subscriber?
