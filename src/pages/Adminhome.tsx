@@ -8,7 +8,7 @@ import {
   FaUsers,
   FaEnvelope,
   FaRegStar,
-  FaPlus,
+  // FaPlus,
   FaImages,
   FaArrowRight,
 } from "react-icons/fa6";
