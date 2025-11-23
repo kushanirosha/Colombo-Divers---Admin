@@ -178,7 +178,7 @@ const Gallery: React.FC = () => {
                 <tr>
                   <th className="text-left p-4">Title</th>
                   <th className="text-left p-4">Image</th>
-                  <th className="text-left p-4">Country</th>
+                  <th className="text-left p-4">Site</th>
                   <th className="text-left p-4">Reorder</th>
                   <th className="text-center p-4">Action</th>
                 </tr>

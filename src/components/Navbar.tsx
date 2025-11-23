@@ -31,7 +31,7 @@ const Navbar: React.FC = () => {
       ? [
           { label: "Home", path: "/home", icon: <LayoutDashboard size={20} /> },
           { label: "Gallery", path: "/gallery", icon: <Image size={20} /> },
-          { label: "Packages", path: "/packages", icon: <FileStack size={20} /> },
+          // { label: "Packages", path: "/packages", icon: <FileStack size={20} /> },
           { label: "Bookings", path: "/bookings", icon: <Calendar size={20} /> },
           { label: "Reviews", path: "/reviews", icon: <Star size={20} /> },
           { label: "Subscribers", path: "/subscribers", icon: <Users size={20} /> },

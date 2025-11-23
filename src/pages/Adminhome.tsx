@@ -246,12 +246,12 @@ const Dashboard: React.FC = () => {
                   Quick Actions
                 </h3>
                 <div className="flex flex-col gap-3">
-                  <button
+                  {/* <button
                     onClick={() => navigate("/packages")}
                     className="flex items-center gap-3 border border-gray-200 rounded-xl px-4 py-3 hover:bg-sky-50 text-gray-700 transition-colors"
                   >
                     <FaPlus className="text-sky-500" /> Add New Package
-                  </button>
+                  </button> */}
 
                   <button
                     onClick={() => navigate("/gallery")}
